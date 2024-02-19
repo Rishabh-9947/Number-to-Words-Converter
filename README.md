@@ -16,3 +16,26 @@ Before running this script, ensure you have Python installed on your system. Add
 
 ```bash
 pip install num2words
+
+Usage
+To use the script, simply run it in your Python environment:
+bash
+python number_to_words.py
+
+When prompted, enter the number you wish to convert. The script will then display the number in word form.
+Example
+plaintext
+Enter a number: 42
+The number in words is: forty-two
+
+Customization
+The script can be modified to support additional features such as:
+Language localization for number conversion.
+Formatting options for capitalization and hyphenation.
+Integration into larger applications requiring number-to-word conversion.
+Contributing
+Contributions to this project are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
+Thank you for checking out the Number to Words Converter!
+
+Remember to replace `number_to_words.py` with the actual filename of your script. This long README provides a comprehensive guide to what the project does, how to set it up, and how to use it, along with potential areas for further development.
+
